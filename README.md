@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Frontend Web Development**
 
-- 📝 I regularly write articles on [https://devinsight.hashnode.dev/](https://devinsight.hashnode.dev/)
+<!-- - 📝 I regularly write articles on [https://devinsight.hashnode.dev/](https://devinsight.hashnode.dev/)-->
 
 - 💬 Ask me about **html , css , javascript , git , cpp ,c**
 
