@@ -1,5 +1,9 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm SUBHADEEP BANERJEE</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Subhadeep+Banerjee!;" />
+</h1>
 <h3 align="center">A PASSIONATE WEB DEVELOPER AND OPENSOURCE CONTRIBUTER</h3>
 <img align="left" alt="Coding" width="400" src="https://cdn3d.iconscout.com/3d/premium/thumb/web-developer-5019746-4183733.png?f=webp">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=subhadeepbanerjee2003&label=Profile%20views&color=0e75b6&style=flat" alt="subhadeepbanerjee2003" /> </p>
