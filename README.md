@@ -1,8 +1,8 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm SUBHADEEP BANERJEE</h1>
-<h3 align="center">A PASSIONATE WEB DEVELOPER AND OPENSOURCE CONTRIBUTER</h3>
-<img align="center" alt="Coding" width="400" src="https://cdn3d.iconscout.com/3d/premium/thumb/web-developer-5019746-4183733.png?f=webp">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadeepbanerjee2003&label=Profile%20views&color=0e75b6&style=flat" alt="subhadeepbanerjee2003" /> </p>
+<h1 align="left">Hi 👋, I'm SUBHADEEP BANERJEE</h1>
+<h3 align="left">A PASSIONATE WEB DEVELOPER AND OPENSOURCE CONTRIBUTER</h3>
+<img align="left" alt="Coding" width="400" src="https://cdn3d.iconscout.com/3d/premium/thumb/web-developer-5019746-4183733.png?f=webp">
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=subhadeepbanerjee2003&label=Profile%20views&color=0e75b6&style=flat" alt="subhadeepbanerjee2003" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhadeepbanerjee2003" alt="subhadeepbanerjee2003" /></a> </p>
 
