@@ -46,6 +46,14 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=subhadeepbanerjee2003&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+<br>
+
+<div align="center">
+    
+[![subhadeepbanerjee2003's GitHub | Stats](https://stats.quine.sh/subhadeepbanerjee2003/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=subhadeepbanerjee2003)
+
+</div>
+
 <br/>
 
 <h3 align="center">
