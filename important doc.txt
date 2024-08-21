@@ -1,0 +1,10 @@
+1. node js is not specifically a language or framework , but it is a runtime - means it run javascript or compile js and provide some sort of extra backend features (like reading file system) to compete with java language.
+
+it is made on top of v8 engine.
+
+
+bun vs nodejs::
+
+bun is same as node js but a better version to compete with node and bun is faster than node
+
+bun is written in zig language
