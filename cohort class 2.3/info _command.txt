@@ -1,0 +1,24 @@
+1. pwd : print working directory
+
+2. terminal is nothing but another interface to do things in my machine
+
+3. cd command : change directory
+
+4. cd .. : to go to previous directory
+
+5. ls : listing all the folder in current directory
+
+6. mkdir : make a directory
+
+7. touch : create an empty file
+
+8. cat : print contents of a file
+
+9. nano : to write something in a file
+
+10. mv : move file from one to another folder
+
+11. cp : copy files into another folder
+
+12. npm : npm install dependency_name -> this is the command to install any node dependency_name
+
